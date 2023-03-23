@@ -1,4 +1,4 @@
-@subscriptionHomepage
+@subscriptionHomepage @regression
 
 Feature: Verify Subscription in home page
 

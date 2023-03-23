@@ -11,7 +11,7 @@ import pageObjects.Base_PO;
 
 
 
-public class LoginUser_Steps extends Base_PO {
+public class Case2_3_LoginUser_Steps extends Base_PO {
     private WebDriver driver= getDriver();
 
     @And("I enter correct email address {string} and password {}")

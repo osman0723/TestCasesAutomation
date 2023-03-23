@@ -35,7 +35,7 @@ public class Case6_Contact_Us_Form_Steps extends Base_PO {
     @And("I upload file")
     public void i_upload_file() throws InterruptedException {
         WebElement choosefile = driver.findElement(By.xpath("//input[@name='upload_file']"));
-        choosefile.sendKeys("C:\\MavenProjects\\JunkFiles\\contactUsfile.txt");
+        choosefile.sendKeys("C:\\MavenProjects\\TestCasesAutomation\\src\\main\\resources\\dummyFile.txt");
 
     }
     @And("I click on submit button")

@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import pageObjects.Base_PO;
 
-public class Logout_User_Steps extends Base_PO {
+public class Case4_Logout_User_Steps extends Base_PO {
     private WebDriver driver= getDriver();
 
     @And("I should be presented with login to user account page")

@@ -7,7 +7,7 @@ Feature: Automation exercise - Register User Page
     When I click on signup login button
     Then I should be presented with New User Signup form
 
-    When I enter name and a unique email-adress
+    When I enter name osman and a unique email-adress osman@mail.com
     And I click on Signup button
     And I fill details title name email password birthday
     And I select checkbox sign up for our newsletter

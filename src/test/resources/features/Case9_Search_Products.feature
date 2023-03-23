@@ -1,4 +1,4 @@
-@searchProduct
+@searchProduct @regression
 
 Feature: Search Product
 

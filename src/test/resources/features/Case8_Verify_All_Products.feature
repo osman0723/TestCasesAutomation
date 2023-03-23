@@ -1,4 +1,4 @@
-@verifyProducts
+@verifyProducts @regression
 
   Feature: Verify All Products and product detail page
     Scenario: Verify products and details successfully

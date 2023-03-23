@@ -1,8 +1,8 @@
-@contactus
+@contactus @regression
 
   Feature: Contact Us Form
 
-    Scenario: Submin an contact us form successfully
+    Scenario: Submit an contact us form successfully
       Given I access the automationexercise web page
       When I click on contact us button
       And I should see get in touch page is visible

@@ -1,4 +1,4 @@
-@verifyTestCases
+@verifyTestCases @regression
 
 Feature: Verify Test Cases Page
 

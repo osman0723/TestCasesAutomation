@@ -8,7 +8,7 @@ Feature: Login User
     And I should be presented with login page
 
   Scenario: Login User with correct email and password
-    And I enter correct email address "osman@mail.com" and password 123
+    And I enter correct email address "john@mail.com" and password 123
     And I click on login button
     And I should see Logged in as username is visible
     And I click on Delete account buttonlogin
